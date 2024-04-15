@@ -1,0 +1,29 @@
+.heading{
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.span-element{
+    color: green;
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    justify-content: space-around;
+}
+.image-card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.paragraph{
+    padding-top: 26px;
+    margin:10px;
+}
+.icon-setting{
+    padding-top: 35px;
+    padding-left: 30px;
+    height: 30px;
+    width:60px;
+}
